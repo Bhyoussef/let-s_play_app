@@ -1,0 +1,1 @@
+enum SearchEntityType { playground, match }
